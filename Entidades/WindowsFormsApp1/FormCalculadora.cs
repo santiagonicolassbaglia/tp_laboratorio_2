@@ -28,7 +28,7 @@ namespace WindowsFormsApp1
 
         private void txt_num1_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
 
@@ -57,7 +57,26 @@ namespace WindowsFormsApp1
             Numero n1 = new Numero(numero1Str);
             Numero n2 = new Numero(numero2Str);
 
+            
+           if( string.IsNullOrWhiteSpace(numero1Str))
+            {
+                MessageBox.Show("Debe ingresar un numero", "Error", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
+                // para que salga el cartel de alerta           
+
+            /*    DialogResult result = MessageBox.Show("¿Desea continuar?", "ALERTA", MessageBoxButtons.YesNoCancel);
+
+                if ( result== DialogResult.No)
+                {
+                    this.Close;
+                }  para que el usuario eliga si quiere seguir o no */ 
+            }
+
+
+
             double resultado = Calculadora.Operar(n1, n2, operador);
+            
+            
+            
             if (operador == "")
             {
                operadores.Text = "+";
@@ -99,6 +118,9 @@ namespace WindowsFormsApp1
 
         }
 
-        
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -52,14 +52,16 @@
             // 
             // Resultado
             // 
-            this.Resultado.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.Resultado.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Resultado.AutoSize = true;
+            this.Resultado.BackColor = System.Drawing.SystemColors.Info;
             this.Resultado.Font = new System.Drawing.Font("Goudy Stout", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Resultado.Location = new System.Drawing.Point(467, 372);
             this.Resultado.Name = "Resultado";
-            this.Resultado.Size = new System.Drawing.Size(30, 28);
+            this.Resultado.Size = new System.Drawing.Size(0, 28);
             this.Resultado.TabIndex = 1;
-            this.Resultado.Text = "0";
             this.Resultado.Click += new System.EventHandler(this.Resultado_Click);
             // 
             // txt_num2
@@ -138,8 +140,11 @@
             // 
             // label1
             // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label1.Font = new System.Drawing.Font("Goudy Stout", 21.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(107, 9);
             this.label1.Name = "label1";
@@ -150,14 +155,19 @@
             // 
             // label2
             // 
-            this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.label2.Font = new System.Drawing.Font("Goudy Stout", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(64, 372);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(397, 28);
             this.label2.TabIndex = 10;
             this.label2.Text = "El resultado es :";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // FormCalculadora
             // 
@@ -175,7 +185,9 @@
             this.Controls.Add(this.operadores);
             this.Controls.Add(this.txt_num2);
             this.Controls.Add(this.txt_num1);
+            this.MinimizeBox = false;
             this.Name = "FormCalculadora";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora hecha por SANTIAGO SBAGLIA .. curso 2º D ";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
