@@ -60,8 +60,7 @@ namespace Clases_Instanciables
             get { return this.jornada[i]; }
             set { this.jornada[i] = value; }
         }
-        // Defino el indexador
-        // public string this[int i]{ get{ returnpalabras[i]; }set{ palabras[i] = value; }}
+        
         #endregion
 
         #region Constructor
