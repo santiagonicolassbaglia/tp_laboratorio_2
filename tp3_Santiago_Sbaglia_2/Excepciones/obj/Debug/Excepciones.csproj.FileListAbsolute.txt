@@ -1,0 +1,6 @@
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Excepciones\obj\Debug\Excepciones.pdb

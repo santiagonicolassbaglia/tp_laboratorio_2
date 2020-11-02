@@ -1,0 +1,9 @@
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\bin\Debug\Archivos.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\bin\Debug\Archivos.pdb
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\bin\Debug\Excepciones.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\obj\Debug\Archivos.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\Archivos\obj\Debug\Archivos.pdb

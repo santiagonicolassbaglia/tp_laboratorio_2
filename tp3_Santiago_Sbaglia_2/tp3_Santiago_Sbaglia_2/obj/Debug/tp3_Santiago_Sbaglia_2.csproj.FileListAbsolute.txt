@@ -1,0 +1,16 @@
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\tp3_Santiago_Sbaglia_2.exe.config
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\tp3_Santiago_Sbaglia_2.exe
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\tp3_Santiago_Sbaglia_2.pdb
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\Archivos.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\Clases Abstractas.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\Clases Instanciables.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\Excepciones.dll
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\Archivos.pdb
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\Clases Abstractas.pdb
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\Clases Instanciables.pdb
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\bin\Debug\Excepciones.pdb
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\obj\Debug\tp3_Santiago_Sbaglia_2.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\obj\Debug\tp3_Santiago_Sbaglia_2.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\obj\Debug\tp3_Santiago_Sbaglia_2.csproj.CopyComplete
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\obj\Debug\tp3_Santiago_Sbaglia_2.exe
+C:\Users\santi\Desktop\tp3_Santiago_Sbaglia_2\tp3_Santiago_Sbaglia_2\obj\Debug\tp3_Santiago_Sbaglia_2.pdb
