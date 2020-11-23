@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D65276D6-F02B-48F3-B2E3-9687B3283D05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>supermercado</RootNamespace>
+    <AssemblyName>supermercado</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>apuasda %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta.Designer.cs">
+      <DependentUpon>Alta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comercio1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comercio1.Designer.cs">
+      <DependentUpon>Comercio1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comercio2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comercio2.Designer.cs">
+      <DependentUpon>Comercio2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comercio3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comercio3.Designer.cs">
+      <DependentUpon>Comercio3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="comercio_compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comercio_compras.Designer.cs">
+      <DependentUpon>comercio_compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="compras.Designer.cs">
+      <DependentUpon>compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="control_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="control_usuario.Designer.cs">
+      <DependentUpon>control_usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductosDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProductosDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ticket.Designer.cs">
+      <DependentUpon>Ticket.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Alta.resx">
+      <DependentUpon>Alta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comercio1.resx">
+      <DependentUpon>Comercio1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comercio2.resx">
+      <DependentUpon>Comercio2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comercio3.resx">
+      <DependentUpon>Comercio3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comercio_compras.resx">
+      <DependentUpon>comercio_compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="compras.resx">
+      <DependentUpon>compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="control_usuario.resx">
+      <DependentUpon>control_usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.aa.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Ticket.resx">
+      <DependentUpon>Ticket.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ProductosDBDataSet.xsc">
+      <DependentUpon>ProductosDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProductosDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProductosDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProductosDBDataSet.xss">
+      <DependentUpon>ProductosDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProductosDBDataSet1.xsc">
+      <DependentUpon>ProductosDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ProductosDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProductosDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProductosDBDataSet1.xss">
+      <DependentUpon>ProductosDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\Biblioteca_examen.Class1.datasource" />
+    <None Include="Properties\DataSources\Biblioteca_examen.cliente.datasource" />
+    <None Include="Properties\DataSources\Biblioteca_examen.Persona.datasource" />
+    <None Include="Properties\DataSources\Biblioteca_examen.producto+Productos_cerveza.datasource" />
+    <None Include="Properties\DataSources\Biblioteca_examen.producto+Productos_cocina.datasource" />
+    <None Include="Properties\DataSources\Biblioteca_examen.producto+Productos_fiambres.datasource" />
+    <None Include="Properties\DataSources\Biblioteca_examen.producto+Productos_gaseosa.datasource" />
+    <None Include="Properties\DataSources\Biblioteca_examen.producto+Productos_limpieza.datasource" />
+    <None Include="Properties\DataSources\Biblioteca_examen.producto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto apu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto apu2.0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apuasda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Archivos\Archivos.csproj">
+      <Project>{0dd2a08e-ae62-4947-837f-ebee2920b8f8}</Project>
+      <Name>Archivos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Biblioteca examen\Biblioteca_examen.csproj">
+      <Project>{cb836594-7a94-453b-b5db-ffc25169c8e6}</Project>
+      <Name>Biblioteca_examen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kwik-E-Mart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="apuasda %281%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

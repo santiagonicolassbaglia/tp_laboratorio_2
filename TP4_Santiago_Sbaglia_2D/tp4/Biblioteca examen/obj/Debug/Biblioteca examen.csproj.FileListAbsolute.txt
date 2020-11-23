@@ -1,0 +1,24 @@
+C:\Users\santi\Desktop\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Biblioteca examen\Biblioteca examen\bin\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\Biblioteca examen\Biblioteca examen\bin\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca_examen.Properties.Resources.resources
+C:\Users\santi\Desktop\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Examen 1 c#\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\bin\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\Examen 1 c#\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\bin\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\Examen 1 c#\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Examen 1 c#\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca_examen.Properties.Resources.resources
+C:\Users\santi\Desktop\Examen 1 c#\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Examen 1 c#\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Examen 1 c#\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\Examen 1 c#\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\bin\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\bin\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca_examen.Properties.Resources.resources
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Biblioteca examen\obj\Debug\Biblioteca examen.pdb

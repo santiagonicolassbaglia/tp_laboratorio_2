@@ -1,0 +1,44 @@
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.exe.config
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.exe
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.pdb
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Archivos.dll
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\supermercado.exe
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Archivos.pdb
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\supermercado.pdb
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\supermercado.exe.config
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\aa\supermercado.resources.dll
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.exe
+C:\Users\santi\Desktop\tp4\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.pdb
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.exe.config
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.exe
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.pdb
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Archivos.dll
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\supermercado.exe
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Archivos.pdb
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\supermercado.pdb
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\supermercado.exe.config
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\aa\supermercado.resources.dll
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.exe
+C:\Users\santi\Desktop\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.pdb
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.exe.config
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.exe
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Test.pdb
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Archivos.dll
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Archivos.pdb
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\bin\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.exe
+C:\Users\santi\Desktop\tp4c#3.0 - copia\tp4 2..0\Examenes-c-\Examenes-c-sharp\Biblioteca examen\Test\obj\Debug\Test.pdb

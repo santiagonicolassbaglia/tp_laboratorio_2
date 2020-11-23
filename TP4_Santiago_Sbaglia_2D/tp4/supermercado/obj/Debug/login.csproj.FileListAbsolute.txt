@@ -1,0 +1,19 @@
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\bin\Debug\supermercado.exe.config
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\bin\Debug\supermercado.exe
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\bin\Debug\supermercado.pdb
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\supermercado.Properties.Resources.resources
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\supermercado.exe
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\supermercado.pdb
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\supermercado.Alta_Cliente.resources
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\supermercado.registroUsuario.resources
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\bin\Debug\Biblioteca examen.dll
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\bin\Debug\Biblioteca examen.pdb
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\login.csproj.CopyComplete
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\bin\Debug\aa\supermercado.resources.dll
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\supermercado.comercio_compras.resources
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\supermercado.registroUsuario.aa.resources
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\aa\supermercado.resources.dll
+C:\Users\santi\Desktop\Biblioteca examen\supermercado\obj\Debug\Biblioteca_examen.compras.resources
