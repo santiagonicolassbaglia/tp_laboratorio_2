@@ -49,14 +49,13 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
     
 
-            sb.AppendLine($"CHASIS: {this.chasis}");
-            sb.AppendLine($"MARCA: {this.marca.ToString()}");
-            sb.AppendLine($"COLOR: {this.color.ToString()}");
+            sb.AppendLine($"CHASIS\n: {this.chasis}");
+            sb.AppendLine($"MARCA\n: {this.marca}");
+            sb.AppendLine($"COLOR\n: {this.color}");
             sb.AppendLine("---------------------");
 
             return sb.ToString();
         }
-
 
 
 
@@ -79,7 +78,12 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
-            return (v1.chasis == v2.chasis);
+            bool iguales = false;
+           if(v1.chasis == v2.chasis)
+            {
+                iguales = true;
+            }
+            return iguales;
         }
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto

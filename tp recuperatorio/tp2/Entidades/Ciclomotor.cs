@@ -35,7 +35,7 @@ namespace Entidades
             sb.AppendLine(base.Mostrar());
             sb.AppendLine($"TAMAÑO : {this.Tamanio}\n");
             sb.AppendLine("\n");
-            sb.AppendLine("---------------------\n");
+            sb.AppendLine("---------ss------------\n");
 
             return sb.ToString();
         }
