@@ -54,6 +54,7 @@ namespace Entidades
             sb.AppendLine($"COLOR\n: {this.color}");
             sb.AppendLine("---------------------");
 
+
             return sb.ToString();
         }
 
@@ -78,12 +79,12 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
-            bool iguales = false;
+            bool identicos = false;
            if(v1.chasis == v2.chasis)
             {
-                iguales = true;
+                identicos = true;
             }
-            return iguales;
+            return identicos;
         }
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto

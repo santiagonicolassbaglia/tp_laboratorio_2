@@ -49,7 +49,7 @@
             this.txt_num1.Location = new System.Drawing.Point(14, 94);
             this.txt_num1.Multiline = true;
             this.txt_num1.Name = "txt_num1";
-            this.txt_num1.Size = new System.Drawing.Size(216, 20);
+            this.txt_num1.Size = new System.Drawing.Size(238, 20);
             this.txt_num1.TabIndex = 0;
             // 
             // Resultado
@@ -70,7 +70,7 @@
             this.txt_num2.Location = new System.Drawing.Point(537, 94);
             this.txt_num2.Multiline = true;
             this.txt_num2.Name = "txt_num2";
-            this.txt_num2.Size = new System.Drawing.Size(211, 20);
+            this.txt_num2.Size = new System.Drawing.Size(232, 20);
             this.txt_num2.TabIndex = 2;
             // 
             // operadores
@@ -82,7 +82,7 @@
             "-",
             "/",
             "*"});
-            this.operadores.Location = new System.Drawing.Point(272, 93);
+            this.operadores.Location = new System.Drawing.Point(289, 93);
             this.operadores.Name = "operadores";
             this.operadores.Size = new System.Drawing.Size(212, 21);
             this.operadores.TabIndex = 3;
@@ -90,9 +90,9 @@
             // RealizarCuenta
             // 
             this.RealizarCuenta.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.RealizarCuenta.Location = new System.Drawing.Point(217, 215);
+            this.RealizarCuenta.Location = new System.Drawing.Point(225, 213);
             this.RealizarCuenta.Name = "RealizarCuenta";
-            this.RealizarCuenta.Size = new System.Drawing.Size(331, 75);
+            this.RealizarCuenta.Size = new System.Drawing.Size(349, 75);
             this.RealizarCuenta.TabIndex = 4;
             this.RealizarCuenta.Text = "REALIZAR CUENTA\r\n";
             this.RealizarCuenta.UseVisualStyleBackColor = true;
@@ -112,7 +112,7 @@
             // Cerrar
             // 
             this.Cerrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Cerrar.Location = new System.Drawing.Point(547, 149);
+            this.Cerrar.Location = new System.Drawing.Point(588, 147);
             this.Cerrar.Name = "Cerrar";
             this.Cerrar.Size = new System.Drawing.Size(181, 43);
             this.Cerrar.TabIndex = 6;
@@ -123,7 +123,7 @@
             // Binario
             // 
             this.Binario.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Binario.Location = new System.Drawing.Point(93, 296);
+            this.Binario.Location = new System.Drawing.Point(25, 296);
             this.Binario.Name = "Binario";
             this.Binario.Size = new System.Drawing.Size(137, 49);
             this.Binario.TabIndex = 7;
@@ -134,7 +134,7 @@
             // Decimal
             // 
             this.Decimal.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Decimal.Location = new System.Drawing.Point(537, 296);
+            this.Decimal.Location = new System.Drawing.Point(644, 296);
             this.Decimal.Name = "Decimal";
             this.Decimal.Size = new System.Drawing.Size(125, 49);
             this.Decimal.TabIndex = 8;

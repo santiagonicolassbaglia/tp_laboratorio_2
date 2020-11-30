@@ -29,7 +29,7 @@ namespace Entidades
 
         public override  string Mostrar()
         {
-            StringBuilder sb = new StringBuilder();
+               StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("CICLOMOTOR\n");
             sb.AppendLine(base.Mostrar());

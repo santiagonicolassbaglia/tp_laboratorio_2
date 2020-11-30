@@ -13,6 +13,22 @@ namespace Entidades
         public enum ETipo { CuatroPuertas, CincoPuertas }
         ETipo tipo;
 
+
+
+        /// <summary>
+        /// Sedan son 'Mediano'
+        /// </summary>
+        public override ETamanio Tamanio
+        {
+            get
+            {
+                return ETamanio.Mediano;
+            }
+        }
+
+
+        public ETipo Tipo { get => tipo; set => tipo = value; }
+
         /// <summary>
         /// Por defecto, TIPO será CuatroPuertas
         /// </summary>
@@ -31,19 +47,7 @@ namespace Entidades
         }
 
         
-
-        /// <summary>
-        /// Sedan son 'Mediano'
-        /// </summary>
-        public override ETamanio Tamanio
-        {
-            get
-            {
-                return ETamanio.Mediano ;
-            }
-        }
-
-        public ETipo Tipo { get => tipo; set => tipo = value; }
+   
 
         public override sealed string Mostrar()
         {
